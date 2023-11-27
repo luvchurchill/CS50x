@@ -1,5 +1,6 @@
 # CS50x
-My CS50 submissions
+My CS50x submissions
 
-I am still in middle so I will update as soon
-as I write more code.
+I have finished all the psets!
+I am currently working on *the final project*
+[DeMe](https://github.com/luvchurchill/DeMe/)
